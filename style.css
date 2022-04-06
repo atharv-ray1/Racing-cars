@@ -1,0 +1,20 @@
+body
+{
+	background-image: url(kkk.jpg);
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background:url(fsdas.jpg);
+    background-size: cover;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: Arial, Helvetica, sans-serif;
+}
